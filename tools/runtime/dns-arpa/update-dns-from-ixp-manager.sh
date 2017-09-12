@@ -21,7 +21,7 @@
 
 # Example script for updating DNS zone files with ARPA entries from IXP Manager
 
-KEY="your-ixp-manager-api-keu"
+KEY="your-ixp-manager-api-key"
 URL="https://ixp.example.com/api/v4/dns/arpa"
 ZONEPATH="/usr/local/etc/namedb/zones/includes"
 VLANIDS="1 2 3"
